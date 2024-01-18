@@ -1,0 +1,5 @@
+- Every model may vary in the predicted values on the same data
+
+- if you make a scatter plot of the predicted values and actual values, the more linear the graph is, the more accurate your predictions are
+
+- if you will fit the data in the model directly, it may not give you the expected predictions, so you have to perform some preprocessing on your data which can be done by building a pipeline and defining steps in them
