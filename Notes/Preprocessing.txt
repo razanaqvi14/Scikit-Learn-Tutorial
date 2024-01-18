@@ -1,0 +1,5 @@
+- StandardScaler is calculated by subtracting each value from it's respective column's mean and divide it by the respective column's standard deviation
+
+- StandardScaler is vulnerable to outliers because it affects the mean of the column
+
+- Quantile Transformer is used to scaler properly and remove the outliers from your data
