@@ -2,4 +2,8 @@
 
 - StandardScaler is vulnerable to outliers because it affects the mean of the column
 
-- Quantile Transformer is used to scaler properly and remove the outliers from your data
+- Quantile Transformer is used to scale properly and remove the outliers from your data
+
+- Logistic Regression is used to classify the data into 2 classes
+
+- Machine learning model doesn't take alphabetical data, it takes numerical data, so to convert alphabetical data into numerical data, we can use one hot encoding
